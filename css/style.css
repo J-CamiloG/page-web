@@ -40,7 +40,7 @@ body{
     top: 0;
     bottom: 0;
     transition: 0.4s;
-    z-index: 99;
+    z-index: 99999;
 
     & .profile{
         text-align: center;
